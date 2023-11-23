@@ -6,7 +6,7 @@ Evolutionary Art
 Overview
 ========
 
-Evolutionary art is a branch of Generated art (art created by an autonomous system) in which alterations are made to initial piece over many iterations. With this you can create artificially generated visual randomness, stylized recreations of existing images, and infinitely changing/evolving images.
+Evolutionary art is a branch of Generated art (art created by an autonomous system) in which alterations are made to an initial state over many iterations. Evolutionary art can be used to create artificially generated visual randomness, stylized recreations of existing images, and infinitely changing/evolving images.
 
 * `Evolutionary Art can be carried out in a variety of ways: <https://franciscouzo.github.io/>`_
     #. Building something out of nothing (Maze Generator, Fractals, Chaotic Map)
@@ -15,7 +15,7 @@ Evolutionary art is a branch of Generated art (art created by an autonomous syst
 
 It is important to separate Evolutionary Art for Biological Art, which uses organic living material as opposed to, paint, metal, wood and computer code.
 
-Variations From other GAs
+Variations From other GAs (Genetic Algorithms)
 =========================
 
 Art is a much more subjective medium than strictly logistical problems, therefore, evaluating fitness is executed differently than in most other GAs.
@@ -34,7 +34,7 @@ Art is a much more subjective medium than strictly logistical problems, therefor
     :align: center
     :target: https://electricsheep.org/
 
-    The Electric Sheep UI allows for users to vote for or against individuals in the population, collectively contributing to their fitness like a hive mind.
+    The Electric Sheep UI allows for users to vote for or against individuals in the population, collectively contributing to their fitness like a hive mind
 
 * In rare cases it is left to the computer to handle fitness evaluation
     #. See `Procedural Paintings <https://shahriyarshahrabi.medium.com/procedural-paintings-with-genetic-evolution-algorithm-6838a6e64703>`_ by Shahriar Shahrabi for an example of this
@@ -64,26 +64,26 @@ The key difference that halts DALL-E from being considered evolutionary art is a
 Affect of our Lives
 ===================
 
-As improvements to evolutionary art continue to be made, its prevalence in our day to day life with increase.
+As improvements to evolutionary art continue to be made, its prevalence in our lives will increase.
 
 * Corporations can save big on budgets by employing software instead of a real commissioned artist
 * Animators can start outsourcing their more tedious work to a computer
 * Producers and composers can be simulated through an application
 
-Production among these occupations could skyrocket past human capabilities putting those who choose to not employ the help of computers at an unfair disadvantage.
+Production among these occupations could surpass human capabilities putting those who choose not to employ the help of computers at an unfair disadvantage.
 
 Conclusion
 ==========
 
-Technology is currently incapable of finding the same nuanced value for something "artistic" we do
+Technology is currently incapable of finding the same nuanced value for something "artistic" we do>
 
 To address this issue, the way we would usually evaluate fitness is altered.
 
 * Some use strict rules that dont have any variance or mutation
 * Others employ the help of human aid to handle fitness evaluation
 
-Evolutionary Art GAs that let the computer handle fitness evaluation usually attempting to recreate an image and fitness is evaluated based on how similar the recreation is the the original
+Evolutionary art GAs that let the computer handle fitness evaluation usually attempt to recreate an image. Fitness is evaluated based on how similar the recreation is to the original.
 
+It isn't far-fetched to imagine that evolutionary art and generative art as a whole will need to be regulated in the future to deal with issues of ownership, compensation, and human job security. That said, until that happens, people are free to try, experiment with, and utilize processes like these for whatever they please.
 
-
-
+Currently, the only restriction on computer generated art is the inability to copyright any work made by it.
