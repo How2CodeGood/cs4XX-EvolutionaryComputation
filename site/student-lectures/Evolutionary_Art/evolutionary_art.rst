@@ -13,7 +13,7 @@ Evolutionary art is a branch of Generated art (art created by an autonomous syst
     #. Manipulating and producing new art based on an existing initial input (Genetic Art, Ishihara Plate Generator)
     #. Continually changing and evolving that respond to feedback (Random Art)
 
-It is important to separate Evolutionary Art for Biological Art, which uses organic living material as opposed to, paint, metal, wood and computer code.
+It is important to separate Evolutionary Art from Biological Art, which uses organic living material as opposed to, paint, metal, wood, and computer code.
 
 Variations From other GAs (Genetic Algorithms)
 =========================
@@ -21,10 +21,10 @@ Variations From other GAs (Genetic Algorithms)
 Art is a much more subjective medium than strictly logistical problems, therefore, evaluating fitness is executed differently than in most other GAs.
 
 * Many Evolutionary Art GAs have strict process rules between generations.
-    #. An example of this is found in `Conway's Game of Life <https://electricsheep.org/>`_, where the number of living neighbors determine whether a cell will be alive of dead next gereration.
+    #. An example of this is found in `Conway's Game of Life <https://electricsheep.org/>`_, where the number of living neighbors determines whether a cell will be alive or dead next generation.
 
 
-* Other programs implement user input to assist with fitness evaluation, where users are prompted to choose one or more of their favourite models.
+* Other programs implement user input to assist with fitness evaluation, where users are prompted to choose one or more of their favorite models.
     #. `Electric Sheep <https://electricsheep.org/>`_ is a modern implementation of evolutionary art that allows users to contribute and influence selection on a massive population.
     #. Sheep with the most votes will be selected for breeding and mutation into tomorrow's population pool
 
@@ -34,7 +34,7 @@ Art is a much more subjective medium than strictly logistical problems, therefor
     :align: center
     :target: https://electricsheep.org/
 
-    The Electric Sheep UI allows for users to vote for or against individuals in the population, collectively contributing to their fitness like a hive mind
+    The Electric Sheep UI allows users to vote for or against individuals in the population, collectively contributing to their fitness like a hive mind
 
 * In rare cases it is left to the computer to handle fitness evaluation
     #. See `Procedural Paintings <https://shahriyarshahrabi.medium.com/procedural-paintings-with-genetic-evolution-algorithm-6838a6e64703>`_ by Shahriar Shahrabi for an example of this
@@ -61,7 +61,7 @@ DALL-E does not meet the requirements to qualify as evolutionary art.
 The key difference that halts DALL-E from being considered evolutionary art is a lack of fitness evaluation.
 
 
-Affect of our Lives
+Affect on our Lives
 ===================
 
 As improvements to evolutionary art continue to be made, its prevalence in our lives will increase.
@@ -79,11 +79,11 @@ Technology is currently incapable of finding the same nuanced value for somethin
 
 To address this issue, the way we would usually evaluate fitness is altered.
 
-* Some use strict rules that dont have any variance or mutation
+* Some use strict rules that don't have any variance or mutation
 * Others employ the help of human aid to handle fitness evaluation
 
 Evolutionary art GAs that let the computer handle fitness evaluation usually attempt to recreate an image. Fitness is evaluated based on how similar the recreation is to the original.
 
 It isn't far-fetched to imagine that evolutionary art and generative art as a whole will need to be regulated in the future to deal with issues of ownership, compensation, and human job security. That said, until that happens, people are free to try, experiment with, and utilize processes like these for whatever they please.
 
-Currently, the only restriction on computer generated art is the inability to copyright any work made by it.
+Currently, the only restriction on generative art is the inability to copyright any work made by it.
